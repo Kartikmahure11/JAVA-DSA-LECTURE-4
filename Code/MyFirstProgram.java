@@ -1,7 +1,7 @@
 class MyFirstMG {
     public static void main(String args[]){
         System.out.println("Hello Shashwat Tiwari 1");
-        System.out.println(args[0]+ "sona --> GOLD");
+        System.out.println(args[0]+ "sona --> gold");
         return;
     }
     public static void main1(String args[]){
